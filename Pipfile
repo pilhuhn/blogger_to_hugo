@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+xmldict = "*"
+beautifulsoup4 = "4.12+"
+requests = "*"
+urllib = "*"
+markdownify = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11+"
+
+
